@@ -1,4 +1,3 @@
-# Elaborati.esame.daniele.lisi
 <strong>Elaborato esame Riboli AABB 2020/21</strong><br><br>
 
 TD-Nettwork_Tutorial_01 <br>Title: Particle Displacement <br>Created by bileam tschepe
