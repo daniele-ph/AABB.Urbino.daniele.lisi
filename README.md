@@ -1,3 +1,3 @@
 # Elaborato.esame.daniele.lisi
 Elaborato esame Riboli AABB 2020/21
-![cover](cover.png)
+![cover](TD_tutorial_01_screen.png)
