@@ -14,3 +14,9 @@ Download link (my tutorial version) -> [Dl_tutorial_02.toe.zip](https://github.c
 ![cover](TD_tutorial_02_screen.png)<br><br>
 
 
+TD-Network_tutorial_03
+Title: 16 – Instancing – TouchDesigner Beginner Course
+Created by bileam tschepe https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe
+Download link (my tutorial version) -> 
+
+
