@@ -19,14 +19,6 @@ Title: 16 – Instancing – TouchDesigner Beginner Course<br>
 Created by: bileam tschepe https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe<br>
 Download link (my tutorial version) -> [Dl_tutorial_04.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6155926/Dl_tutorial_03.toe.zip)
 <br><br>
-![TD_tutorial_03_screen](https://user-images.githubusercontent.com/77739462/111460248-08b75a00-871c-11eb-937e-407df88f23ff.png)<br><br>
-
-TD-Network_tutorial_04<br>
-Title: Infinite Looping Torus<br>
-Created by: Noto The Talking Ball https://www.youtube.com/watch?v=lg6hNhQOtIA&ab_channel=NotoTheTalkingBall<br>
-<br><br>
-![TD_tutorial_03_screen](https://user-images.githubusercontent.com/77739462/111460248-08b75a00-871c-11eb-937e-407df88f23ff.png)<br><br>
-
 
 
 
