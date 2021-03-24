@@ -25,6 +25,7 @@ Download link (my tutorial version) -> [Dl_tutorial_04.toe.zip](https://github.c
 TD-Network_tutorial_04<br>
 Title: Infinite Looping Torus<br>
 Created by: Noto The Talking Ball https://www.youtube.com/watch?v=lg6hNhQOtIA&ab_channel=NotoTheTalkingBall<br>
+Download link (my tutorial version) -> 
 <br><br>
 ![cover](TD_tutorial_04_screen.png)<br><br>
 
