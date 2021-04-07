@@ -39,6 +39,14 @@ Download link (my tutorial version) -> [tutorial_05.2.toe.zip](https://github.co
 ![TD_tutorial_05_screen](https://user-images.githubusercontent.com/77739462/113144428-85265e80-922d-11eb-90fe-15b52d936e48.png)
 <br><br>
 
+<b>TD-Network_tutorial_06</b><br>
+Title: Image Instancing – TouchDesigner Tutorial 26<br>
+Created by: bileam tschepe https://www.youtube.com/watch?v=dCWUiyBYeho&ab_channel=bileamtschepe<br>
+Download link (my tutorial version) -> [tutorial_06.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6272899/tutorial_06.toe.zip)
+![TD_tutorial_06_screen](https://user-images.githubusercontent.com/77739462/113896747-8413a500-97ca-11eb-915f-da1c5a0cb343.png)
+
+<br><br>
+
 
 
 
