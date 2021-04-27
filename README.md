@@ -78,6 +78,10 @@ My changes: I added my normal map about Mount S.Helen and I entered a "Lava text
 Download link (my tutorial version) -> [TD_tutorial_08.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6383819/TD_tutorial_08.zip)
 <br>
 Download link (screen-video) -> [TD_tutorial_08_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384049/TD_tutorial_08_screen-video.zip)
+<br>
+Download material (Highmap and texture file) -> Lava Texture (https://cc0textures.com/view?id=Lava003)<br> - Mount S.Helen Highmap -> ![heightmapper-s-helen_highmapper_Q](https://user-images.githubusercontent.com/77739462/116232930-06a0dc00-a75b-11eb-9859-7595dae4c2cf.png)
+
+
 <br><br>
 ![TD_tutorial_08_screen](https://user-images.githubusercontent.com/77739462/116227555-92633a00-a754-11eb-85ab-2affc7e4b50c.png)
 <br><br>
