@@ -79,7 +79,8 @@ Download link (my tutorial version) -> [TD_tutorial_08.zip](https://github.com/d
 <br>
 Download link (screen-video) -> [TD_tutorial_08_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384049/TD_tutorial_08_screen-video.zip)
 <br>
-Download material (Highmap and texture file) -> Lava Texture (https://cc0textures.com/view?id=Lava003)<br> - Mount S.Helen Highmap -> ![heightmapper-s-helen_highmapper_Q](https://user-images.githubusercontent.com/77739462/116232930-06a0dc00-a75b-11eb-9859-7595dae4c2cf.png)
+Download material files (Highmap and texture file) -> Lava Texture (https://cc0textures.com/view?id=Lava003)<br> - Mount S.Helen Highmap -> [heightmapper-s-helen_highmapper_Q.png.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384091/heightmapper-s-helen_highmapper_Q.png.zip)
+
 
 
 <br><br>
