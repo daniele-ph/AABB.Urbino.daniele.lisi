@@ -1,7 +1,7 @@
 
 <strong>ELABORATI ESAME "Linguaggi multimediali" - D.Riboli AABB Urbino AA2020/21</strong><br><br>
 
-<b>TD-Network_Tutorial_01</b> <br>Title: Particle Displacement <br>Created by: bileam tschepe
+<b>TD-Network_Tutorial_01 (Obligatory)</b> <br>Title: Particle Displacement <br>Created by: bileam tschepe
 https://www.youtube.com/watch?v=hbZjgHSCAPI&amp;ab_channel=bileamtschepe</string><br>
 Download link (my tutorial version) ->[DL_tutorial_01.toe.zip](https://github.com/daniele-ph/Elaborato.esame.daniele.lisi/files/6077889/DL_tutorial_01.toe.zip)
 <br>
@@ -11,7 +11,7 @@ Download link (screen-video) -> [TD_tutorial_01_screen-video.zip](https://github
 <br><br>
 
 
-<b>TD-Network_tutorial_02</b> <br>Title: Pow to make landscape in Touchdesigner <br>Created by: Noto The Talking Ball
+<b>TD-Network_tutorial_02 (Obligatory)</b> <br>Title: Pow to make landscape in Touchdesigner <br>Created by: Noto The Talking Ball
 https://www.youtube.com/watch?v=Kxng628ejFY&ab_channel=NotoTheTalkingBall<br>
 Download link (my tutorial version) -> [Dl_tutorial_02.toe.zip](https://github.com/daniele-ph/Elaborato.esame.daniele.lisi/files/6077874/Dl_tutorial_02.toe.zip)
 <br>
