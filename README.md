@@ -55,6 +55,13 @@ Download link (my tutorial version) -> [tutorial_07.14.toe.zip](https://github.c
 ![TD_tutorial_07_screen](https://user-images.githubusercontent.com/77739462/115037241-9084b580-9ece-11eb-9d2d-bc0e28c3ee00.png)
 
 <br><br>
+<b>TD-Network_tutorial_08 (Modified)</b><br>
+Title: Magic Spheres (Height Maps) – TouchDesigner Tutorial 13<br>
+Created by: bileam tschepe https://www.youtube.com/watch?v=pEp6XiAf8cA&ab_channel=bileamtschepe<br>
+My changes: I added my normal map about Mount S.Helen and I entered a "Lava texture" from https://cc0textures.com/list?q=rock
+Download link (my tutorial version) -> [TD_tutorial_08.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6383819/TD_tutorial_08.zip)
+![TD_tutorial_08_screen](https://user-images.githubusercontent.com/77739462/116227555-92633a00-a754-11eb-85ab-2affc7e4b50c.png)
+<br><br>
 
 
 
