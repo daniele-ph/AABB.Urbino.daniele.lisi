@@ -3,7 +3,7 @@
 <br><br>
 <b>TDN_TUTORIAL_01 (Obligatory)</b>
 <br>
-Title:<a href="https://www.youtube.com/watch?v=hbZjgHSCAPI&amp;ab_channel=bileamtschepe"> Particle Displacement</a></a>
+Title:<a href="https://www.youtube.com/watch?v=hbZjgHSCAPI&amp;ab_channel=bileamtschepe"> Particle Displacement</a>
 <br>
 Created by: bileam tschepe
 <br>
@@ -13,5 +13,14 @@ Created by: bileam tschepe
 
 --------
 </a><b>TDN_TUTORIAL_02 (Obligatory)</b>
+<br><br>
+Title: <a href="https://www.youtube.com/watch?v=Kxng628ejFY&ab_channel=NotoTheTalkingBallHow">to make landscape in Touchdesigner</a>
+<br>Created by: Noto The Talking Ball
 <br>
+<a href="https://github.com/daniele-ph/Elaborato.esame.daniele.lisi/files/6077874/Dl_tutorial_02.toe.zip">Download (my tutorial version)</a>
 <br>
+<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384022/TD_tutorial_02_screen-video.zip">Download (screen-video)</a>
+<br><br>
+![cover](TD_tutorial_02_screen.png)<br><br>
+<br><br>
+
