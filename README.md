@@ -99,7 +99,7 @@ MY CHANGES
 <br><br>
 
 
-TDN_TUTORIAL_07</b>
+<b>TDN_TUTORIAL_07</b>
 <br>
 Title: <a href="https://www.youtube.com/watch?v=SJZIMGg-thY&ab_channel=NotoTheTalkingBall">Instancing Geometry with Mouse interactive in Touchdesigner (터치디자이너 튜토리얼 자막)</a>
 <br>
@@ -116,7 +116,7 @@ MY CHANGES
 <br><br>
 
 
-TDN_TUTORIAL_08 (Modified)</b>
+<b>TDN_TUTORIAL_08 (Modified)</b>
 <br>
 Title: <a href="https://www.youtube.com/watch?v=pEp6XiAf8cA&ab_channel=bileamtschepe">Magic Spheres (Height Maps) – TouchDesigner Tutorial 13</a>
 <br>
