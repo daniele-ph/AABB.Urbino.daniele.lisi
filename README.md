@@ -98,6 +98,21 @@ Download (my tutorial version)
 Download (screen-video)
 <br><br>
 
+--------
+<b>TDN_TUTORIAL_08</b>
+<br>
+Title: <a href="https://www.youtube.com/watch?v=pEp6XiAf8cA&ab_channel=bileamtschepe">Magic Spheres (Height Maps) – TouchDesigner Tutorial 13</a>
+<br>
+Created by: bileam tschepe
+<br><br>
+<b>My changes:</b>
+<br>
+Download (my tutorial version)
+<br>
+Download (screen-video)
+<br><br>
+
+
 
 
 
