@@ -35,7 +35,7 @@ Title:<a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtsch
 Download (my tutorial version)</a>
 <br>
 Download (screen-video)</a>
-<br><br>
+<br><br><br>
 --------
 </a><b>TDN_TUTORIAL_04 (Modified)</b>
 <br><br>
@@ -48,8 +48,7 @@ Created by: Noto The Talking Ball
 Download (my tutorial version)
 <br>
 Download (screen-video)
-<br><br>
-
+<br><br><br>
 --------
 </a><b>TDN_TUTORIAL_05 (Modified)</b>
 <br>
@@ -64,8 +63,7 @@ Download (my tutorial version)
 Download (screen-video)
 <br><br>
 ![TD_tutorial_05_screen](https://user-images.githubusercontent.com/77739462/116424995-41317400-a842-11eb-8fee-88be72b4b393.png)
-
-
+<br><br><br>
 --------
 <b>TDN_TUTORIAL_06</b>
 <br>
