@@ -113,10 +113,6 @@ MY CHANGES:
 Download (material files)
 - <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384091/heightmapper-s-helen_highmapper_Q.png.zip">Mount S.Helen Hightmap</a>
 - <a href="https://cc0textures.com/view?id=Lava003">Lava Texture</a>
-<br><br>
-![TD_tutorial_07_screen](https://user-images.githubusercontent.com/77739462/116410568-33292680-a835-11eb-8590-c93e60a619b2.png)
-
-<br><br>
-
+![TD_tutorial_08_screen](https://user-images.githubusercontent.com/77739462/116410733-56ec6c80-a835-11eb-9d58-09a8ca3df381.png)
 
 
