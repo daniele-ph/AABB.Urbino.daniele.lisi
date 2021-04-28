@@ -1,8 +1,8 @@
 
 <strong>ELABORATI ESAME "Linguaggi multimediali" - D.Riboli AABB Urbino AA2020/21</strong>
-<br><br>
+<br><br><br>
 <b>TDN_TUTORIAL_01 (Obligatory)</b>
-<br>
+<br><br>
 Title:<a href="https://www.youtube.com/watch?v=hbZjgHSCAPI&amp;ab_channel=bileamtschepe"> Particle Displacement</a>
 <br>
 Created by: bileam tschepe
@@ -23,4 +23,19 @@ Title: <a href="https://www.youtube.com/watch?v=Kxng628ejFY&ab_channel=NotoTheTa
 <br><br>
 ![cover](TD_tutorial_02_screen.png)<br><br>
 <br><br>
+
+--------
+<b>TDN_TUTORIAL_03 (Modified)</b>
+<br>
+itle: <a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe">16 – Instancing – TouchDesigner Beginner Course</a>
+ <br>
+ Created by: bileam tschepe 
+ <br>
+MY CHANGES:
+- Bg color "Blue" (transform1)<br>
+- Radius of the spheres (sphere1)<br>
+- Decreased the speed of the composition (noise2)<br>
+- Light inclination
+<br>
+
 
