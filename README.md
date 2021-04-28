@@ -6,7 +6,6 @@
 Title: <a href="https://www.youtube.com/watch?v=hbZjgHSCAPI&amp;ab_channel=bileamtschepe">Particle Displacement</a>
 <br>Created by: bileam tschepe
 <br>
-<a href="https://github.com/daniele-ph/Elaborato.esame.daniele.lisi/files/6077889/DL_tutorial_01.toe.zip">Download (my tutorial version)</a>
 <br>
 <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384006/TD_tutorial_01_screen-video.zip">Download (screen-video) 
 <br><br>
