@@ -62,6 +62,8 @@ Title: <a href="https://www.youtube.com/watch?v=AO7mqjLj8n4&ab_channel=bileamtsc
 Created by: bileam tschepe
 <br><br>
 <b>My changes:</b><br>
+Stump of the tree<br>
+Color BG and general shapes
 <br>
 Download (my tutorial version) > [tutorial_05.2.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393129/tutorial_05.2.toe.zip)
 <br>
