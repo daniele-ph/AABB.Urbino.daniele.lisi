@@ -30,7 +30,7 @@ Title: <a href="https://www.youtube.com/watch?v=Kxng628ejFY&ab_channel=NotoTheTa
 Title: <a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe">16 – Instancing – TouchDesigner Beginner Course</a>
  <br>
  Created by: bileam tschepe 
- <br>
+ <br><br>
 MY CHANGES:
 - Bg color "Blue" (transform1)<br>
 - Radius of the spheres (sphere1)<br>
@@ -41,7 +41,7 @@ MY CHANGES:
 <br>
 <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6392182/TD_tutorial_03_screen-video.zip">Download (screen-video)</a>
 <br><br>
-![cover](TD_tutorial_03_screen.png)
+![cover](TD_tutorial_02_screen.png)
 <br><br>
 
 --------
