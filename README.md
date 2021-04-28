@@ -18,12 +18,7 @@
 <br>Title: How to make landscape in Touchdesigner
 <br>Created by: Noto The Talking Ball
 <br>
-<a href="https://github.com/daniele-ph/Elaborato.esame.daniele.lisi/files/6077874/Dl_tutorial_02.toe.zip">Download (my tutorial version)</a>
-<br>
-<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384022/TD_tutorial_02_screen-video.zip">Download (screen-video)</a>
-<br><br>
-![cover](TD_tutorial_02_screen.png)<br><br>
-<br><br>
+
 
 
 TDN_TUTORIAL_03 (Modified)
