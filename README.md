@@ -35,11 +35,10 @@ Title:<a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtsch
 - Decreased the speed of the composition (noise2)<br>
 - Light inclination
 <br>
-<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6391929/Dl_tutorial_03.2.toe.zip">Download (my tutorial version)</a>
+Download (my tutorial version)</a>
 <br>
-<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6392182/TD_tutorial_03_screen-video.zip">Download (screen-video)</a>
+Download (screen-video)</a>
 <br><br>
-![TD_tutorial_03_screen](https://user-images.githubusercontent.com/77739462/116425139-5f976f80-a842-11eb-8cfd-e5899b1616cb.png)
 
 --------
 </a><b>TDN_TUTORIAL_04 (Modified)</b>
