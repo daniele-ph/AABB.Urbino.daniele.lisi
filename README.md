@@ -27,7 +27,7 @@ Title: <a href="https://www.youtube.com/watch?v=Kxng628ejFY&ab_channel=NotoTheTa
 --------
 <b>TDN_TUTORIAL_03 (Modified)</b>
 <br>
-itle: <a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe">16 – Instancing – TouchDesigner Beginner Course</a>
+Title: <a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe">16 – Instancing – TouchDesigner Beginner Course</a>
  <br>
  Created by: bileam tschepe 
  <br>
@@ -37,5 +37,14 @@ MY CHANGES:
 - Decreased the speed of the composition (noise2)<br>
 - Light inclination
 <br>
+<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6391929/Dl_tutorial_03.2.toe.zip">Download (my tutorial version)</a>
+<br>
+<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6392182/TD_tutorial_03_screen-video.zip">Download (screen-video)</a>
+<br><br>
+![TD_tutorial_03_screen](https://user-images.githubusercontent.com/77739462/116407643-438bd200-a832-11eb-90a4-0b491a9c71dd.png)
+<br><br>
+
+--------
+
 
 
