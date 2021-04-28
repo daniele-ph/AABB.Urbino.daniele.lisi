@@ -32,12 +32,9 @@ MY CHANGES:
 - Radius of the spheres (sphere1)<br>
 - Decreased the speed of the composition (noise2)<br>
 - Light inclination<br>
-Download link (my tutorial version) -> [Dl_tutorial_03.2.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6391752/Dl_tutorial_03.2.toe.zip)
-<br>
-Download link (screen-video) -> [TD_tutorial_03_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6391765/TD_tutorial_03_screen-video.zip)
+Download link (my tutorial version) -> [Dl_tutorial_03.2.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6391929/Dl_tutorial_03.2.toe.zip)
 <br><br>
-![TD_tutorial_03_screen](https://user-images.githubusercontent.com/77739462/116407396-06bfdb00-a832-11eb-8a3b-5514b1bdce89.png)
-
+![TD_tutorial_03_screen](https://user-images.githubusercontent.com/77739462/116407643-438bd200-a832-11eb-90a4-0b491a9c71dd.png)
 <br><br>
 
 
@@ -51,7 +48,7 @@ Download link (my tutorial version) ->  [Dl_tutorial_04.toe.zip](https://github.
 <br>
 Download link (screen-video) -> [TD_tutorial_04_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384032/TD_tutorial_04_screen-video.zip)
 <br><br>
-![cover](TD_tutorial_04_screen.png)<br><br>
+![TD_tutorial_04_screen](https://user-images.githubusercontent.com/77739462/116407728-5bfbec80-a832-11eb-8856-a1e0314b2482.png)
 <br><br>
  
  
