@@ -101,7 +101,7 @@ Created by: bileam tschepe
 <br><br>
 <b>My changes:</b><br>
 I entereda Hight map of Mount S.Helen and "Lava texture"
-<br>
+<br><br>
 Download (my tutorial version)
 <br>
 Download (screen-video)
