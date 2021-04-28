@@ -113,7 +113,7 @@ Title: <a href="https://www.youtube.com/watch?v=pEp6XiAf8cA&ab_channel=bileamtsc
 Created by: bileam tschepe
 <br><br>
 <b>My changes:</b><br>
-I entered a Hight map of Mount S.Helen USA with Texture (phong1)<a href="https://cc0textures.com/view?id=Lava003">"Lava texture"</a>
+I entered a Hight map of Mount S.Helen USA with Texture (phong1)<a href="https://cc0textures.com/view?id=Lava003"> "Lava texture"</a>
 <br>Sphere color (sphere1)
 <br><br>
 Download (my tutorial version) > [tutorial_08.19.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393212/tutorial_08.19.toe.zip)
