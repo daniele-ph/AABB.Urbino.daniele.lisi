@@ -51,9 +51,12 @@ MY CHANGES:
 
 TDN_TUTORIAL_04</b><br>
 Title: <a href="https://www.youtube.com/watch?v=lg6hNhQOtIA&ab_channel=NotoTheTalkingBall">Infinite Looping Torus<a>
-<br>
+<br><br>
 Created by: Noto The Talking Ball 
 <br>
+ MY CHANGES
+ -
+ -
 <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6236291/Dl_tutorial_04.toe.zip">Download my tutorial version)</a>
 <br>
 <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384032/TD_tutorial_04_screen-video.zip">Download (screen-video)</a>
@@ -67,7 +70,7 @@ TDN_TUTORIAL_05 (Modified)</b><br>
 Title: <a href="https://www.youtube.com/watch?v=AO7mqjLj8n4&ab_channel=bileamtschepe">Tiny Landscape – TouchDesigner Tutorial 12</a>
 <br>
 Created by: bileam tschepe
-<br>
+<br><br>
 MY CHANGES
 - Stump of the tree
 - Color BG and general shapes
@@ -85,7 +88,10 @@ MY CHANGES
 Title: <a href="https://www.youtube.com/watch?v=dCWUiyBYeho&ab_channel=bileamtschepe">Image Instancing – TouchDesigner Tutorial 26</a>
 <br>
 Created by: bileam tschepe
-<br>
+<br><br>
+MY CHANGES
+-
+-
 <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6272899/tutorial_06.toe.zip">Download (my tutorial version)</a>
 <br>
 <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384039/TD_tutorial_06_screen-video.zip">Download (screen-video)</a>
@@ -99,7 +105,10 @@ TDN_TUTORIAL_07</b><br>
 Title: <a href="https://www.youtube.com/watch?v=SJZIMGg-thY&ab_channel=NotoTheTalkingBall">Instancing Geometry with Mouse interactive in Touchdesigner (터치디자이너 튜토리얼 자막)</a>
 <br>
 Created by: Noto The Talking Ball
-<br>
+<br><br>
+MY CHANGES
+-
+-
 <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6325659/tutorial_07.14.toe.zip"><Download (my tutorial version)</a>
 <br>
 <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384042/TD_tutorial_07_screen-video.zip">Download link (screen-video)</a>
