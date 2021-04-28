@@ -63,9 +63,9 @@ Created by: bileam tschepe
 <br><br>
 <b>My changes:</b><br>
 <br>
-Download (my tutorial version)
+Download (my tutorial version) > [tutorial_05.2.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393129/tutorial_05.2.toe.zip)
 <br>
-Download (screen-video)
+Download (screen-video) > [TD_tutorial_05_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393130/TD_tutorial_05_screen-video.zip)
 <br><br>
 ![TD_tutorial_05_screen](https://user-images.githubusercontent.com/77739462/116429322-121d0180-a846-11eb-8a70-30a075da8c85.png)
 </a>
@@ -78,9 +78,9 @@ Created by: bileam tschepe
 <br><br>
 <b>My changes:</b><br>
 <br>
-Download (my tutorial version)
+Download (my tutorial version) > [tutorial_06.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393133/tutorial_06.toe.zip)
 <br>
-Download (screen-video)
+Download (screen-video) > [TD_tutorial_06_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393137/TD_tutorial_06_screen-video.zip)
 <br><br>
 ![TD_tutorial_06_screen](https://user-images.githubusercontent.com/77739462/116429269-0598a900-a846-11eb-8946-9a0f1f39979b.png)
 </a>
@@ -93,9 +93,9 @@ Created by: Noto The Talking Ball
 <br><br>
 <b>My changes:</b><br>
 <br>
-Download (my tutorial version)
+Download (my tutorial version) > [tutorial_07.14.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393144/tutorial_07.14.toe.zip)
 <br>
-Download (screen-video)
+Download (screen-video) > [TD_tutorial_07_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393145/TD_tutorial_07_screen-video.zip)
 <br><br>
 ![TD_tutorial_07_screen](https://user-images.githubusercontent.com/77739462/116428294-11d03680-a845-11eb-8374-9f3c80d75bf3.png)
 </a>
