@@ -22,7 +22,7 @@ Download link (screen-video) -> [TD_tutorial_02_screen-video.zip](https://github
 <br><br>
 
 
-<b>TDN_TUTORIAL_03 (Modified)</b><br>
+TDN_TUTORIAL_03 (Modified)</b><br>
 Title: <a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe">16 – Instancing – TouchDesigner Beginner Course</a>
  <br>
  Created by: bileam tschepe 
@@ -40,7 +40,7 @@ Download link (my tutorial version) -> [Dl_tutorial_03.2.toe.zip](https://github
 
 
 
-<b>TDN_TUTORIAL_04</b><br>
+TDN_TUTORIAL_04</b><br>
 Title: <a href="https://www.youtube.com/watch?v=lg6hNhQOtIA&ab_channel=NotoTheTalkingBall">Infinite Looping Torus<a>
 <br>
 Created by: Noto The Talking Ball 
@@ -54,7 +54,7 @@ Download link (screen-video) -> [TD_tutorial_04_screen-video.zip](https://github
  
  
 
-<b>TDN_TUTORIAL_05 (Modified)</b><br>
+TDN_TUTORIAL_05 (Modified)</b><br>
 Title: <a href="https://www.youtube.com/watch?v=AO7mqjLj8n4&ab_channel=bileamtschepe">Tiny Landscape – TouchDesigner Tutorial 12</a>
 <br>
 Created by: bileam tschepe
@@ -82,7 +82,9 @@ Download link (screen-video) -> [TD_tutorial_06_screen-video.zip](https://github
 ![TD_tutorial_06_screen](https://user-images.githubusercontent.com/77739462/113897074-d48b0280-97ca-11eb-8884-865d5d10256e.png)
 
 <br><br>
-<b>TDN_TUTORIAL_07</b><br>
+
+
+TDN_TUTORIAL_07</b><br>
 Title: <a href="https://www.youtube.com/watch?v=SJZIMGg-thY&ab_channel=NotoTheTalkingBall">Instancing Geometry with Mouse interactive in Touchdesigner (터치디자이너 튜토리얼 자막)</a>
 <br>
 Created by: Noto The Talking Ball
@@ -92,23 +94,26 @@ Download link (my tutorial version) -> [tutorial_07.14.toe.zip](https://github.c
 Download link (screen-video) -> [TD_tutorial_07_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384042/TD_tutorial_07_screen-video.zip)
 <br><br>
 ![TD_tutorial_07_screen](https://user-images.githubusercontent.com/77739462/115037241-9084b580-9ece-11eb-9d2d-bc0e28c3ee00.png)
-
 <br><br>
-<b>TDN_TUTORIAL_08 (Modified)</b><br>
+
+
+TDN_TUTORIAL_08 (Modified)</b><br>
 Title: <a href="https://www.youtube.com/watch?v=pEp6XiAf8cA&ab_channel=bileamtschepe">Magic Spheres (Height Maps) – TouchDesigner Tutorial 13</a>
 <br>
 Created by: bileam tschepe
 <br>
 MY CHANGES:
 - Personal Hight map of Mount S.Helen
-- Entered a "Lava texture".
+- Entered a "Lava texture"
+<br>
 Download link (my tutorial version) -> [TD_tutorial_08.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6383819/TD_tutorial_08.zip)
 <br>
 Download link (screen-video) -> [TD_tutorial_08_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384049/TD_tutorial_08_screen-video.zip)
 <br>
-Download link (material files) -> Mount S.Helen Hightmap [heightmapper-s-helen_highmapper_Q.png.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384091/heightmapper-s-helen_highmapper_Q.png.zip) and Lava Texture (https://cc0textures.com/view?id=Lava003)
+Download link (material files):
+- [heightmapper-s-helen_highmapper_Q.png.zip] <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384091/heightmapper-s-helen_highmapper_Q.png.zip">Mount S.Helen Hightmap</a>
+- <a href="https://cc0textures.com/view?id=Lava003">Lava Texture</a>
 <br>
-
 ![TD_tutorial_08_screen](https://user-images.githubusercontent.com/77739462/116405828-5f8e7400-a830-11eb-84fb-af7232a4737d.png)
 
 <br><br>
