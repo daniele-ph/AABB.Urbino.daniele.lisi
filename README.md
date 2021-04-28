@@ -119,7 +119,7 @@ MY CHANGES:
 <br>
 <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6383819/TD_tutorial_08.zip">Download (my tutorial version)</a>
 <br>
-<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384049/TD_tutorial_08_screen-video.zip">Download (screen-video) -></a>
+<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384049/TD_tutorial_08_screen-video.zip">Download (screen-video)</a>
 <br>
 Download (material files)
 <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384091/heightmapper-s-helen_highmapper_Q.png.zip">- Mount S.Helen Hightmap</a>
