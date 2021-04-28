@@ -1,8 +1,8 @@
 
 <strong>ELABORATI ESAME "Linguaggi multimediali" - D.Riboli AABB Urbino AA2020/21</strong><br><br>
 
-<b>TDN_TUTORIAL_01 (Obligatory)</b> <br>Title: Particle Displacement <br>Created by: bileam tschepe
-https://www.youtube.com/watch?v=hbZjgHSCAPI&amp;ab_channel=bileamtschepe</string><br>
+<b>TDN_TUTORIAL_01 (Obligatory)</b> <br>Title:<a href="https://www.youtube.com/watch?v=hbZjgHSCAPI&amp;ab_channel=bileamtschepe">Particle Displacement</a> <br>Created by: bileam tschepe
+<br>
 Download link (my tutorial version) ->[DL_tutorial_01.toe.zip](https://github.com/daniele-ph/Elaborato.esame.daniele.lisi/files/6077889/DL_tutorial_01.toe.zip)
 <br>
 Download link (screen-video) -> [TD_tutorial_01_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384006/TD_tutorial_01_screen-video.zip)
