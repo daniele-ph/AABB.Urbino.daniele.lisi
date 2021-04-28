@@ -39,6 +39,7 @@ Title:<a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtsch
 <br>
 <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6392182/TD_tutorial_03_screen-video.zip">Download (screen-video)</a>
 <br><br>
+![TD_tutorial_03_screen](https://user-images.githubusercontent.com/77739462/116425139-5f976f80-a842-11eb-8cfd-e5899b1616cb.png)
 
 --------
 </a><b>TDN_TUTORIAL_04 (Modified)</b>
@@ -53,6 +54,7 @@ Download (my tutorial version)
 <br>
 Download (screen-video)
 <br><br>
+![TD_tutorial_04_screen](https://user-images.githubusercontent.com/77739462/116425073-51495380-a842-11eb-807d-86d7d52ab78f.png)
 
 --------
 </a><b>TDN_TUTORIAL_05 (Modified)</b>
@@ -67,6 +69,8 @@ Download (my tutorial version)
 <br>
 Download (screen-video)
 <br><br>
+![TD_tutorial_05_screen](https://user-images.githubusercontent.com/77739462/116424995-41317400-a842-11eb-8fee-88be72b4b393.png)
+
 
 --------
 <b>TDN_TUTORIAL_06</b>
