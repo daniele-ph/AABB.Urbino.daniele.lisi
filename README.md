@@ -100,12 +100,13 @@ Title: <a href="https://www.youtube.com/watch?v=pEp6XiAf8cA&ab_channel=bileamtsc
 Created by: bileam tschepe
 <br><br>
 <b>My changes:</b><br>
-I entereda Hight map of Mount S.Helen and "Lava texture"
+I entered a Hight map of Mount S.Helen and "Lava texture"
 <br><br>
 Download (my tutorial version)
 <br>
 Download (screen-video)
 <br><br>
+![TD_tutorial_08_screen](https://user-images.githubusercontent.com/77739462/116428139-efd6b400-a844-11eb-9c75-c8ce712289d0.png)
 
 
 
