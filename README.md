@@ -29,7 +29,7 @@ Download (screen-video)
 Title: <a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe"></a>16 – Instancing – TouchDesigner Beginner Course
 Created by: bileam tschepe
 <br><br>
-<b>My changes:</b>
+<b>My changes:</b><br>
 <br>
 Download (my tutorial version)
 <br>
@@ -43,7 +43,7 @@ Title: <a href="https://www.youtube.com/watch?v=lg6hNhQOtIA&ab_channel=NotoTheTa
 <br>
 Created by: Noto The Talking Ball 
 <br><br>
-<b>My changes:</b>
+<b>My changes:</b><br>
 <br>
 Download (my tutorial version)
 <br>
@@ -57,7 +57,7 @@ Title: <a href="https://www.youtube.com/watch?v=AO7mqjLj8n4&ab_channel=bileamtsc
 <br>
 Created by: bileam tschepe
 <br><br>
-<b>My changes:</b>
+<b>My changes:</b><br>
 <br>
 Download (my tutorial version)
 <br>
@@ -71,7 +71,7 @@ Title: <a href="https://www.youtube.com/watch?v=dCWUiyBYeho&ab_channel=bileamtsc
 <br>
 Created by: bileam tschepe
 <br><br>
-<b>My changes:</b>
+<b>My changes:</b><br>
 <br>
 Download (my tutorial version)
 <br>
@@ -85,7 +85,7 @@ Title: <a href="https://www.youtube.com/watch?v=SJZIMGg-thY&ab_channel=NotoTheTa
 <br>
 Created by: Noto The Talking Ball
 <br><br>
-<b>My changes:</b>
+<b>My changes:</b><br>
 <br>
 Download (my tutorial version)
 <br>
@@ -99,9 +99,8 @@ Title: <a href="https://www.youtube.com/watch?v=pEp6XiAf8cA&ab_channel=bileamtsc
 <br>
 Created by: bileam tschepe
 <br><br>
-<b>My changes:</b>
-Personal Hight map of Mount S.Helen
-Entered a "Lava texture"
+<b>My changes:</b><br>
+I entereda Hight map of Mount S.Helen and "Lava texture"
 <br>
 Download (my tutorial version)
 <br>
