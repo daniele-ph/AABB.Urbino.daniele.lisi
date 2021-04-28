@@ -101,7 +101,7 @@ TDN_TUTORIAL_08 (Modified)</b><br>
 Title: <a href="https://www.youtube.com/watch?v=pEp6XiAf8cA&ab_channel=bileamtschepe">Magic Spheres (Height Maps) – TouchDesigner Tutorial 13</a>
 <br>
 Created by: bileam tschepe
-<br>
+<br><br>
 MY CHANGES:
 - Personal Hight map of Mount S.Helen
 - Entered a "Lava texture"
@@ -114,7 +114,7 @@ Download (material files)
 - <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384091/heightmapper-s-helen_highmapper_Q.png.zip">Mount S.Helen Hightmap</a>
 - <a href="https://cc0textures.com/view?id=Lava003">Lava Texture</a>
 <br><br>
-![TD_tutorial_08_screen](https://user-images.githubusercontent.com/77739462/116410443-12f96780-a835-11eb-9133-deba89b41cc0.png)
+![TD_tutorial_07_screen](https://user-images.githubusercontent.com/77739462/116410568-33292680-a835-11eb-8590-c93e60a619b2.png)
 
 <br><br>
 
