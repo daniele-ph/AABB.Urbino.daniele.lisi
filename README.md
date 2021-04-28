@@ -15,7 +15,7 @@ Download (screen-video) > [TD_tutorial_01_screen-video.zip](https://github.com/d
 </a>
 --------<br>
 <b>TDN_TUTORIAL_02 (Modified)</b>
-<br><br>
+<br>
 Title: <a href="https://www.youtube.com/watch?v=Kxng628ejFY&ab_channel=NotoTheTalkingBall">How to make landscape in Touchdesigner</a>
 <br>Created by: Noto The Talking Ball
 <br><br>
@@ -27,7 +27,7 @@ Download (screen-video) > [TD_tutorial_02_screen-video.zip](https://github.com/d
 </a>
 --------<br>
 <b>TDN_TUTORIAL_03 (Modified)</b>
-<br><br>
+<br>
 Title: <a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe">16 – Instancing – TouchDesigner Beginner Course</a>
 <br>Created by: bileam tschepe
 <br><br>
@@ -45,7 +45,7 @@ Download (screen-video) > [TD_tutorial_03_screen-video.zip](https://github.com/d
 </a>
 --------<br>
 <b>TDN_TUTORIAL_04 (Modified)</b>
-<br><br>
+<br>
 Title: <a href="https://www.youtube.com/watch?v=lg6hNhQOtIA&ab_channel=NotoTheTalkingBall">Infinite Looping Torus</a>
 <br>
 Created by: Noto The Talking Ball 
