@@ -46,6 +46,21 @@ MY CHANGES:
 </a><b>TDN_TUTORIAL_04 (Modified)</b>
 <br><br>
 Title: <a href="https://www.youtube.com/watch?v=lg6hNhQOtIA&ab_channel=NotoTheTalkingBall">Infinite Looping Torus<a>
+  <br><br>
+Created by: Noto The Talking Ball 
+<br><br>
+ MY CHANGES
+ -
+ -
+<br>
+<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6236291/Dl_tutorial_04.toe.zip">Download my tutorial version)</a>
+<br>
+<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384032/TD_tutorial_04_screen-video.zip">Download (screen-video)</a>
+<br><br>
+![TD_tutorial_04_screen](https://user-images.githubusercontent.com/77739462/116407728-5bfbec80-a832-11eb-8856-a1e0314b2482.png)<br><br>
+  
+--------
+
 
 
 
