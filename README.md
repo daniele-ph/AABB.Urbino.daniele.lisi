@@ -64,6 +64,7 @@ Title: <a href="https://www.youtube.com/watch?v=AO7mqjLj8n4&ab_channel=bileamtsc
 Created by: bileam tschepe
 <br><br>
 <b>My changes:</b>
+<br>
 Download (my tutorial version)
 <br>
 Download (screen-video)
@@ -77,6 +78,21 @@ Title: <a href="https://www.youtube.com/watch?v=dCWUiyBYeho&ab_channel=bileamtsc
 Created by: bileam tschepe
 <br><br>
 <b>My changes:</b>
+<br>
+Download (my tutorial version)
+<br>
+Download (screen-video)
+<br><br>
+
+--------
+<b>TDN_TUTORIAL_07</b>
+<br>
+Title: <a href="https://www.youtube.com/watch?v=SJZIMGg-thY&ab_channel=NotoTheTalkingBall">Instancing Geometry with Mouse interactive in Touchdesigner (터치디자이너 튜토리얼 자막)</a>
+<br>
+Created by: Noto The Talking Ball
+<br><br>
+<b>My changes:</b>
+<br>
 Download (my tutorial version)
 <br>
 Download (screen-video)
