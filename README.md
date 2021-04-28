@@ -20,14 +20,20 @@ Download link (screen-video) -> [TD_tutorial_02_screen-video.zip](https://github
 ![cover](TD_tutorial_02_screen.png)<br><br>
 <br><br>
 
-<b>TD-Network_tutorial_03</b><br>
+<b>TD-Network_tutorial_03 (Modified)</b><br>
 Title: 16 – Instancing – TouchDesigner Beginner Course<br>
 Created by: bileam tschepe https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe<br>
-Download link (my tutorial version) -> [Dl_tutorial_03.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6236286/Dl_tutorial_03.toe.zip)
+MY CHANGES is
+- Bg color "Blue" (transform1)<br>
+- Radius of the spheres (sphere1)<br>
+- Decreased the speed of the composition (noise2)<br>
+- Light inclination.<br>
+Download link (my tutorial version) -> [Dl_tutorial_03.2.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6391752/Dl_tutorial_03.2.toe.zip)
+
 <br>
-Download link (screen-video) -> [TD_tutorial_03_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384031/TD_tutorial_03_screen-video.zip)
+Download link (screen-video) -> [TD_tutorial_03_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6391765/TD_tutorial_03_screen-video.zip)
 <br><br>
-![TD_tutorial_03_screen](https://user-images.githubusercontent.com/77739462/113144508-996a5b80-922d-11eb-93ad-fac3e96d4b55.png)
+![TD_tutorial_03_screen](https://user-images.githubusercontent.com/77739462/116403396-ccecd580-a82d-11eb-8bc3-1d2e0c67b360.png)
 <br><br>
 
 <b>TD-Network_tutorial_04</b><br>
