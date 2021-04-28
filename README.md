@@ -106,15 +106,14 @@ MY CHANGES:
 - Personal Hight map of Mount S.Helen
 - Entered a "Lava texture"
 <br>
-Download link (my tutorial version) -> [TD_tutorial_08.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6383819/TD_tutorial_08.zip)
+<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6383819/TD_tutorial_08.zip">Download (my tutorial version)</a>
 <br>
-Download link (screen-video) -> [TD_tutorial_08_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384049/TD_tutorial_08_screen-video.zip)
+<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384049/TD_tutorial_08_screen-video.zip">Download (screen-video) -></a>
 <br>
 Download link (material files):
 - <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384091/heightmapper-s-helen_highmapper_Q.png.zip">Mount S.Helen Hightmap</a>
 - <a href="https://cc0textures.com/view?id=Lava003">Lava Texture</a>
-<br>
-![TD_tutorial_08_screen](https://user-images.githubusercontent.com/77739462/116409817-8058c880-a834-11eb-837f-d535920509e2.png)
+<br><br>
 
 <br><br>
 
