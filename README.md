@@ -31,7 +31,8 @@ MY CHANGES:
 - Bg color "Blue" (transform1)<br>
 - Radius of the spheres (sphere1)<br>
 - Decreased the speed of the composition (noise2)<br>
-- Light inclination<br>
+- Light inclination
+<br><br>
 Download link (my tutorial version) -> [Dl_tutorial_03.2.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6391929/Dl_tutorial_03.2.toe.zip)
 <br><br>
 ![TD_tutorial_03_screen](https://user-images.githubusercontent.com/77739462/116407643-438bd200-a832-11eb-90a4-0b491a9c71dd.png)
@@ -54,11 +55,14 @@ Download link (screen-video) -> [TD_tutorial_04_screen-video.zip](https://github
  
 
 <b>TDN_TUTORIAL_05 (Modified)</b><br>
-Title: Tiny Landscape – TouchDesigner Tutorial 12<br>
-Created by: bileam tschepe https://www.youtube.com/watch?v=AO7mqjLj8n4&ab_channel=bileamtschepe<br>
+Title: <a href="https://www.youtube.com/watch?v=AO7mqjLj8n4&ab_channel=bileamtschepe">Tiny Landscape – TouchDesigner Tutorial 12</a>
+<br>
+Created by: bileam tschepe
+<br>
 MY CHANGES
 - Stump of the tree
 - Color BG and general shapes
+<br><br>
 Download link (my tutorial version) -> [tutorial_05.2.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6236294/tutorial_05.2.toe.zip)
 <br>
 Download link (screen-video) -> [TD_tutorial_05_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384037/TD_tutorial_05_screen-video.zip)
@@ -67,8 +71,10 @@ Download link (screen-video) -> [TD_tutorial_05_screen-video.zip](https://github
 <br><br>
 
 <b>TDN_TUTORIAL_06</b><br>
-Title: Image Instancing – TouchDesigner Tutorial 26<br>
-Created by: bileam tschepe https://www.youtube.com/watch?v=dCWUiyBYeho&ab_channel=bileamtschepe<br>
+Title: <a href="https://www.youtube.com/watch?v=dCWUiyBYeho&ab_channel=bileamtschepe">Image Instancing – TouchDesigner Tutorial 26</a>
+<br>
+Created by: bileam tschepe
+<br>
 Download link (my tutorial version) -> [tutorial_06.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6272899/tutorial_06.toe.zip)
 <br>
 Download link (screen-video) -> [TD_tutorial_06_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384039/TD_tutorial_06_screen-video.zip)
@@ -77,8 +83,10 @@ Download link (screen-video) -> [TD_tutorial_06_screen-video.zip](https://github
 
 <br><br>
 <b>TDN_TUTORIAL_07</b><br>
-Title: Instancing Geometry with Mouse interactive in Touchdesigner (터치디자이너 튜토리얼 자막)<br>
-Created by: Noto The Talking Ball https://www.youtube.com/watch?v=SJZIMGg-thY&ab_channel=NotoTheTalkingBall<br>
+Title: <a href="https://www.youtube.com/watch?v=SJZIMGg-thY&ab_channel=NotoTheTalkingBall">Instancing Geometry with Mouse interactive in Touchdesigner (터치디자이너 튜토리얼 자막)</a>
+<br>
+Created by: Noto The Talking Ball
+<br>
 Download link (my tutorial version) -> [tutorial_07.14.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6325659/tutorial_07.14.toe.zip)
 <br>
 Download link (screen-video) -> [TD_tutorial_07_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384042/TD_tutorial_07_screen-video.zip)
@@ -87,8 +95,10 @@ Download link (screen-video) -> [TD_tutorial_07_screen-video.zip](https://github
 
 <br><br>
 <b>TDN_TUTORIAL_08 (Modified)</b><br>
-Title: Magic Spheres (Height Maps) – TouchDesigner Tutorial 13<br>
-Created by: bileam tschepe https://www.youtube.com/watch?v=pEp6XiAf8cA&ab_channel=bileamtschepe<br>
+Title: <a href="https://www.youtube.com/watch?v=pEp6XiAf8cA&ab_channel=bileamtschepe">Magic Spheres (Height Maps) – TouchDesigner Tutorial 13</a>
+<br>
+Created by: bileam tschepe
+<br>
 MY CHANGES:
 - Personal Hight map of Mount S.Helen
 - Entered a "Lava texture".
