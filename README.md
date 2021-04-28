@@ -76,7 +76,7 @@ Download (screen-video) > [TD_tutorial_05_screen-video.zip](https://github.com/d
 ![TD_tutorial_05_screen](https://user-images.githubusercontent.com/77739462/116429322-121d0180-a846-11eb-8a70-30a075da8c85.png)
 </a>
 --------<br>
-<b>TDN_TUTORIAL_06</b>
+<b>TDN_TUTORIAL_06 (Modified)</b>
 <br>
 Title: <a href="https://www.youtube.com/watch?v=dCWUiyBYeho&ab_channel=bileamtschepe">Image Instancing – TouchDesigner Tutorial 26</a>
 <br>
@@ -91,7 +91,7 @@ Download (screen-video) > [TD_tutorial_06_screen-video.zip](https://github.com/d
 ![TD_tutorial_06_screen](https://user-images.githubusercontent.com/77739462/116429269-0598a900-a846-11eb-8946-9a0f1f39979b.png)
 </a>
 --------<br>
-<b>TDN_TUTORIAL_07</b>
+<b>TDN_TUTORIAL_07 (Modified)</b>
 <br>
 Title: <a href="https://www.youtube.com/watch?v=SJZIMGg-thY&ab_channel=NotoTheTalkingBall">Instancing Geometry with Mouse interactive in Touchdesigner (터치디자이너 튜토리얼 자막)</a>
 <br>
@@ -106,7 +106,7 @@ Download (screen-video) > [TD_tutorial_07_screen-video.zip](https://github.com/d
 ![TD_tutorial_07_screen](https://user-images.githubusercontent.com/77739462/116428294-11d03680-a845-11eb-8374-9f3c80d75bf3.png)
 </a>
 --------<br>
-<b>TDN_TUTORIAL_08</b>
+<b>TDN_TUTORIAL_08 (Modified)</b>
 <br>
 Title: <a href="https://www.youtube.com/watch?v=pEp6XiAf8cA&ab_channel=bileamtschepe">Magic Spheres (Height Maps) – TouchDesigner Tutorial 13</a>
 <br>
