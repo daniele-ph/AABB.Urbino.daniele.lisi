@@ -63,9 +63,25 @@ Title: <a href="https://www.youtube.com/watch?v=AO7mqjLj8n4&ab_channel=bileamtsc
 <br>
 Created by: bileam tschepe
 <br><br>
+<b>My changes:</b>
+Download (my tutorial version)
+<br>
+Download (screen-video)
+<br><br>
 
+--------
+<b>TDN_TUTORIAL_06</b>
+<br>
+Title: <a href="https://www.youtube.com/watch?v=dCWUiyBYeho&ab_channel=bileamtschepe">Image Instancing – TouchDesigner Tutorial 26</a>
+<br>
+Created by: bileam tschepe
+<br><br>
+<b>My changes:</b>
+Download (my tutorial version)
+<br>
+Download (screen-video)
+<br><br>
 
-  
 
 
 
