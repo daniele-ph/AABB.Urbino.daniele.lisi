@@ -21,9 +21,10 @@ Download link (screen-video) -> [TD_tutorial_02_screen-video.zip](https://github
 ![cover](TD_tutorial_02_screen.png)<br><br>
 <br><br>
 
+
 <b>TDN_TUTORIAL_03 (Modified)</b><br>
-Title: 16 – Instancing – TouchDesigner Beginner Course<br>
-Created by: bileam tschepe https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe<br>
+Title: 16 – Instancing – TouchDesigner Beginner Course<a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe">Created by: bileam tschepe </a>
+<br>
 MY CHANGES:
 - Bg color "Blue" (transform1)<br>
 - Radius of the spheres (sphere1)<br>
