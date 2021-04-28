@@ -33,9 +33,9 @@ Title: <a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtsc
 <br><br>
 <b>My changes:</b><br>
 <br>
-Download (my tutorial version)
+Download (my tutorial version) > [Dl_tutorial_03.2.toe 2.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393099/Dl_tutorial_03.2.toe.2.zip)
 <br>
-Download (screen-video)
+Download (screen-video) > [Uploading TD_tutorial_03_screen-video.zip…]()
 <br><br>
 ![TD_tutorial_03_screen](https://user-images.githubusercontent.com/77739462/116430624-4d6c0000-a847-11eb-91b2-17979253be24.png)
 </a>
