@@ -49,9 +49,12 @@ Title: <a href="https://www.youtube.com/watch?v=lg6hNhQOtIA&ab_channel=NotoTheTa
 <br><br>
 MY CHANGES:
 
-<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6236291/Dl_tutorial_04.toe.zip">Download my tutorial version)</a>
+<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6236291/Dl_tutorial_04.toe.zip">(Download my tutorial version)</a>
 <br>
-
+<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384032/TD_tutorial_04_screen-video.zip">Download (screen-video)</a>
+<br><br>
+![TD_tutorial_04_screen](https://user-images.githubusercontent.com/77739462/116407728-5bfbec80-a832-11eb-8856-a1e0314b2482.png)
+--------
 
 
   
