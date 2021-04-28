@@ -11,7 +11,6 @@ Download (my tutorial version)
 <br>
 Download (screen-video)
 <br><br>
-![TD_tutorial_01_screen](https://user-images.githubusercontent.com/77739462/116429669-5f996e80-a846-11eb-8ade-6e0df27e59d7.png)
 </a>
 --------<br>
 <b>TDN_TUTORIAL_02 (Modified)</b>
@@ -23,7 +22,6 @@ Download (my tutorial version)
 <br>
 Download (screen-video)
 <br><br>
-![TD_tutorial_02_screen](https://user-images.githubusercontent.com/77739462/116429608-53adac80-a846-11eb-9968-788756469f8e.png)
 </a>
 --------<br>
 <b>TDN_TUTORIAL_03 (Modified)</b>
