@@ -100,6 +100,8 @@ Title: <a href="https://www.youtube.com/watch?v=pEp6XiAf8cA&ab_channel=bileamtsc
 Created by: bileam tschepe
 <br><br>
 <b>My changes:</b>
+Personal Hight map of Mount S.Helen
+Entered a "Lava texture"
 <br>
 Download (my tutorial version)
 <br>
