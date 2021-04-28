@@ -41,7 +41,7 @@ MY CHANGES:
 <br>
 <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6392182/TD_tutorial_03_screen-video.zip">Download (screen-video)</a>
 <br><br>
-![cover](TD_tutorial_02_screen.png)
+![cover](TD_tutorial_02_screen.png)<br><br>
 <br><br>
 
 --------
