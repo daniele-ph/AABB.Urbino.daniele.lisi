@@ -6,9 +6,8 @@ Title:<a href="https://www.youtube.com/watch?v=hbZjgHSCAPI&amp;ab_channel=bileam
 <br>
 Created by: bileam tschepe
 <br>
-<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384006/TD_tutorial_01_screen-video.zip">Download (screen-video) 
+Download (screen-video) 
   
-![TD_tutorial_01_screen](https://user-images.githubusercontent.com/77739462/116413304-c5cac500-a837-11eb-9797-cb623e3c9d68.png)
 
 --------
 </a><b>TDN_TUTORIAL_02 (Obligatory)</b>
@@ -16,11 +15,11 @@ Created by: bileam tschepe
 Title: <a href="https://www.youtube.com/watch?v=Kxng628ejFY&ab_channel=NotoTheTalkingBallHow">to make landscape in Touchdesigner</a>
 <br>Created by: Noto The Talking Ball
 <br>
-<a href="https://github.com/daniele-ph/Elaborato.esame.daniele.lisi/files/6077874/Dl_tutorial_02.toe.zip">Download (my tutorial version)</a>
+Download (my tutorial version)</a>
 <br>
-<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384022/TD_tutorial_02_screen-video.zip">Download (screen-video)</a>
+Download (screen-video)</a>
 <br><br>
-![cover](TD_tutorial_02_screen.png)
+
 
 --------
 <b>TDN_TUTORIAL_03 (Modified)</b>
@@ -40,6 +39,7 @@ Download (my tutorial version)</a>
 Download (screen-video)</a>
 <br><br>
 ![TD_tutorial_03_screen](https://user-images.githubusercontent.com/77739462/116425456-9a99a300-a842-11eb-81ab-eab787754b97.png)
+
 --------
 </a><b>TDN_TUTORIAL_04 (Modified)</b>
 <br><br>
