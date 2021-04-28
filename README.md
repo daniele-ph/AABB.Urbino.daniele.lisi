@@ -35,7 +35,7 @@ Title: <a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtsc
 <br>
 Download (my tutorial version) > [Dl_tutorial_03.2.toe 2.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393099/Dl_tutorial_03.2.toe.2.zip)
 <br>
-Download (screen-video) > [Uploading TD_tutorial_03_screen-video.zip…]()
+Download (screen-video) > [TD_tutorial_03_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393112/TD_tutorial_03_screen-video.zip)
 <br><br>
 ![TD_tutorial_03_screen](https://user-images.githubusercontent.com/77739462/116430624-4d6c0000-a847-11eb-91b2-17979253be24.png)
 </a>
@@ -48,9 +48,9 @@ Created by: Noto The Talking Ball
 <br><br>
 <b>My changes:</b><br>
 <br>
-Download (my tutorial version)
+Download (my tutorial version) > [Dl_tutorial_04.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393119/Dl_tutorial_04.toe.zip)
 <br>
-Download (screen-video)
+Download (screen-video) > [TD_tutorial_04_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393124/TD_tutorial_04_screen-video.zip)
 <br><br>
 ![TD_tutorial_04_screen](https://user-images.githubusercontent.com/77739462/116429362-1cd79680-a846-11eb-85b3-0f2144a4b532.png)
 </a>
