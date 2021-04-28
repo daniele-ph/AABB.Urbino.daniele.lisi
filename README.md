@@ -27,7 +27,7 @@ Download (screen-video)
 <b>TDN_TUTORIAL_03 (Modified)</b>
 <br><br>
 Title: <a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe"></a>16 – Instancing – TouchDesigner Beginner Course
-Created by: bileam tschepe
+<br>Created by: bileam tschepe
 <br><br>
 <b>My changes:</b><br>
 <br>
