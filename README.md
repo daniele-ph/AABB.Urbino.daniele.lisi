@@ -36,7 +36,8 @@ Download link (my tutorial version) -> [Dl_tutorial_03.2.toe.zip](https://github
 <br>
 Download link (screen-video) -> [TD_tutorial_03_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6391765/TD_tutorial_03_screen-video.zip)
 <br><br>
-![TD_tutorial_03_screen](https://user-images.githubusercontent.com/77739462/116403396-ccecd580-a82d-11eb-8bc3-1d2e0c67b360.png)
+![TD_tutorial_03_screen](https://user-images.githubusercontent.com/77739462/116407396-06bfdb00-a832-11eb-8a3b-5514b1bdce89.png)
+
 <br><br>
 
 
