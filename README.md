@@ -15,6 +15,6 @@ Created by: bileam tschepe
 
 <b>TDN_TUTORIAL_02 (Obligatory)</b>
 <br><br>
-Title: <a href="https://www.youtube.com/watch?v=Kxng628ejFY&ab_channel=NotoTheTalkingBallHow">to make landscape in Touchdesigner</a>
+Title:
 <br>Created by: Noto The Talking Ball
 <br>
