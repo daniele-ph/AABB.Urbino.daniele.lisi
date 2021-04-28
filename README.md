@@ -30,7 +30,7 @@ Title:<a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtsch
  <br>
  Created by: bileam tschepe 
  <br><br>
-MY CHANGES:
+<b>My changes</b>
 - Bg color "Blue" (transform1)<br>
 - Radius of the spheres (sphere1)<br>
 - Decreased the speed of the composition (noise2)<br>
