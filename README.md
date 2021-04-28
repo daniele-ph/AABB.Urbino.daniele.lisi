@@ -35,7 +35,7 @@ Title: <a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtsc
 Bg color "Blue" (transform1)<br>
 Radius of the spheres (sphere1)<br>
 Decreased the speed of the composition (noise2)<br>
-Light inclination<br>
+Light inclination (Light1)<br>
 <br><br>
 Download (my tutorial version) > [Dl_tutorial_03.2.toe 2.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393099/Dl_tutorial_03.2.toe.2.zip)
 <br>
