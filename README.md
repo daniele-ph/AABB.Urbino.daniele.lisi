@@ -8,9 +8,7 @@ Title: <a href="https://www.youtube.com/watch?v=hbZjgHSCAPI&amp;ab_channel=bilea
 Created by: bileam tschepe
 <br>
 <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384006/TD_tutorial_01_screen-video.zip">Download (screen-video) 
- 
-  ![TD_tutorial_01_screen](https://user-images.githubusercontent.com/77739462/116413304-c5cac500-a837-11eb-9797-cb623e3c9d68.png)
-
+ ![TD_tutorial_01_screen](https://user-images.githubusercontent.com/77739462/116413304-c5cac500-a837-11eb-9797-cb623e3c9d68.png)
 <br><br>
 
 <b>TDN_TUTORIAL_02 (Obligatory)</b>
