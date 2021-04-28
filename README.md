@@ -1,6 +1,3 @@
-![TD_tutorial_07_screen](https://user-images.githubusercontent.com/77739462/116424410-c8cab300-a841-11eb-90b3-e7a33aeb4f20.png)
-![TD_tutorial_07_screen](https://user-images.githubusercontent.com/77739462/116424509-dd0eb000-a841-11eb-937d-c03817eb418e.png)
-
 <strong>ELABORATI ESAME "Linguaggi multimediali" - D.Riboli AABB Urbino AA2020/21</strong>
 <br><br><br>
 <b>TDN_TUTORIAL_01 (Obligatory)</b>
@@ -98,6 +95,7 @@ Download (my tutorial version)
 <br>
 Download (screen-video)
 <br><br>
+![TD_tutorial_07_screen](https://user-images.githubusercontent.com/77739462/116424657-fd3e6f00-a841-11eb-8964-a1772fe4c0d5.png)
 
 --------
 <b>TDN_TUTORIAL_08</b>
