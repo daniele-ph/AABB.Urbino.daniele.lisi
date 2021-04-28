@@ -9,7 +9,7 @@ Title: <a href="https://www.youtube.com/watch?v=hbZjgHSCAPI&amp;ab_channel=bilea
 <br><br>
 Download (my tutorial version)
 <br>
-<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393057/DL_tutorial_01.4.toe.zip"></a>Download (screen-video)
+Download (screen-video)
 <br><br>
 ![TD_tutorial_01_screen](https://user-images.githubusercontent.com/77739462/116430814-79878100-a847-11eb-9bbf-b8f4ca8f5955.png)
 </a>
