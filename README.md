@@ -101,7 +101,7 @@ Title: <a href="https://www.youtube.com/watch?v=pEp6XiAf8cA&ab_channel=bileamtsc
 Created by: bileam tschepe
 <br><br>
 <b>My changes:</b><br>
-I entered a Hight map of Mount S.Helen and "Lava texture"
+I entered a Hight map of Mount S.Helen USA whith Texture <a href="https://cc0textures.com/view?id=Lava003">"Lava texture"</a>
 <br><br>
 Download (my tutorial version)
 <br>
