@@ -11,7 +11,7 @@ Created by: Noto The Talking Ball
 Download (my tutorial version)
 <br>
 Download (screen-video)
-<br><br><br>
+<br><br>
 --------
 </a><b>TDN_TUTORIAL_05 (Modified)</b>
 <br>
@@ -25,8 +25,6 @@ Download (my tutorial version)
 <br>
 Download (screen-video)
 <br><br>
-![TD_tutorial_05_screen](https://user-images.githubusercontent.com/77739462/116424995-41317400-a842-11eb-8fee-88be72b4b393.png)
-<br><br><br>
 --------
 <b>TDN_TUTORIAL_06</b>
 <br>
@@ -40,8 +38,6 @@ Download (my tutorial version)
 <br>
 Download (screen-video)
 <br><br>
-![TD_tutorial_06_screen](https://user-images.githubusercontent.com/77739462/116424840-23fca580-a842-11eb-85d7-a53e4e9fb508.png)
-
 --------
 <b>TDN_TUTORIAL_07</b>
 <br>
@@ -55,8 +51,6 @@ Download (my tutorial version)
 <br>
 Download (screen-video)
 <br><br>
-![TD_tutorial_07_screen](https://user-images.githubusercontent.com/77739462/116424657-fd3e6f00-a841-11eb-8964-a1772fe4c0d5.png)
-
 --------
 <b>TDN_TUTORIAL_08</b>
 <br>
@@ -70,7 +64,6 @@ Download (my tutorial version)
 <br>
 Download (screen-video)
 <br><br>
-![TD_tutorial_08_screen](https://user-images.githubusercontent.com/77739462/116424286-ad5fa800-a841-11eb-87a4-2aa0a8d20fd6.png)
 
 
 
