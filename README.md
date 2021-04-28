@@ -21,12 +21,11 @@ Title: <a href="https://www.youtube.com/watch?v=Kxng628ejFY&ab_channel=NotoTheTa
 <br>
 <a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384022/TD_tutorial_02_screen-video.zip">Download (screen-video)</a>
 <br><br>
-![cover](TD_tutorial_02_screen.png)<br><br>
-<br><br>
+![cover](TD_tutorial_02_screen.png)
 
 --------
 <b>TDN_TUTORIAL_03 (Modified)</b>
-<br>
+<br><br>
 Title: <a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe">16 – Instancing – TouchDesigner Beginner Course</a>
  <br>
  Created by: bileam tschepe 
