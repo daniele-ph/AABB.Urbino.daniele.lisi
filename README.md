@@ -1,3 +1,36 @@
+<b>TDN_TUTORIAL_01 (Obligatory)</b>
+<br>
+Title: <a href="https://www.youtube.com/watch?v=hbZjgHSCAPI&amp;ab_channel=bileamtschepe">Particle Displacement</a>
+<br>Created by: bileam tschepe
+<br><br>
+Download (my tutorial version)
+<br>
+Download (screen-video)
+<br><br>
+</a>
+--------<br>
+<b>TDN_TUTORIAL_02 (Modified)</b>
+<br><br>
+Title: <a href="https://www.youtube.com/watch?v=Kxng628ejFY&ab_channel=NotoTheTalkingBallHow">to make landscape in Touchdesigner</a>
+<br>Created by: Noto The Talking Ball
+<br><br>
+Download (my tutorial version)
+<br>
+Download (screen-video)
+<br><br>
+</a>
+--------<br>
+<b>TDN_TUTORIAL_03 (Modified)</b>
+<br><br>
+Title: <a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe"></a>16 – Instancing – TouchDesigner Beginner Course
+Created by: bileam tschepe
+<br><br>
+<b>My changes:</b>
+<br>
+Download (my tutorial version)
+<br>
+Download (screen-video)
+<br><br>
 </a>
 --------<br>
 <b>TDN_TUTORIAL_04 (Modified)</b>
