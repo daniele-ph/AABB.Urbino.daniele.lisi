@@ -81,6 +81,7 @@ Download (my tutorial version)
 <br>
 Download (screen-video)
 <br><br>
+![TD_tutorial_06_screen](https://user-images.githubusercontent.com/77739462/116424840-23fca580-a842-11eb-85d7-a53e4e9fb508.png)
 
 --------
 <b>TDN_TUTORIAL_07</b>
