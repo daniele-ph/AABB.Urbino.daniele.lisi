@@ -47,13 +47,7 @@ MY CHANGES:
 <br><br>
 Title: <a href="https://www.youtube.com/watch?v=lg6hNhQOtIA&ab_channel=NotoTheTalkingBall">Infinite Looping Torus</a>
 <br><br>
-MY CHANGES:
 
-<a href="https://github.com/daniele-ph/Elaborato.esame.daniele.lisi/files/6077874/Dl_tutorial_02.toe.zip">Download (my tutorial version)</a>
-<br>
-<a href="https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6384022/TD_tutorial_02_screen-video.zip">Download (screen-video)</a>
-<br><br>
-![cover](TD_tutorial_02_screen.png)
 --------
 
 
