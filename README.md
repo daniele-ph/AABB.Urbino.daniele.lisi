@@ -11,7 +11,7 @@ Title: <a href="https://www.youtube.com/watch?v=hbZjgHSCAPI&amp;ab_channel=bilea
 Download (my tutorial version) > [DL_tutorial_01.4.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393072/DL_tutorial_01.4.toe.zip)
 <br>
 Download (screen-video) > [TD_tutorial_01_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393082/TD_tutorial_01_screen-video.zip)
-<br><br>
+<br><br><br><br>
 </a>
 <strong>TD NETWORK 02 (Obligatory)</strong><br>
 --------<br>
@@ -23,7 +23,7 @@ Title: <a href="https://www.youtube.com/watch?v=Kxng628ejFY&ab_channel=NotoTheTa
 Download (my tutorial version) > [Dl_tutorial_02.4.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393091/Dl_tutorial_02.4.toe.zip)
 <br>
 Download (screen-video) > [TD_tutorial_02_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393094/TD_tutorial_02_screen-video.zip)
-<br><br>
+<br><br><br><br>
 </a>
 <strong>TD NETWORK 03 (Modified)</strong><br>
 --------<br>
@@ -37,11 +37,11 @@ Bg color "Blue" (transform1)<br>
 Radius of the spheres (sphere1)<br>
 Decreased the speed of the composition (noise2)<br>
 Light inclination (Light1)<br>
-<br><br>
+<br>
 Download (my tutorial version) > [Dl_tutorial_03.2.toe 2.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393099/Dl_tutorial_03.2.toe.2.zip)
 <br>
 Download (screen-video) > [TD_tutorial_03_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393112/TD_tutorial_03_screen-video.zip)
-<br><br>
+<br><br><br><br>
 </a>
 <strong>TD NETWORK 04 (Modified)</strong><br>
 --------<br>![TD_tutorial_04_screen](https://user-images.githubusercontent.com/77739462/116429362-1cd79680-a846-11eb-85b3-0f2144a4b532.png)
@@ -55,7 +55,7 @@ Created by: Noto The Talking Ball
 Download (my tutorial version) > [Dl_tutorial_04.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393119/Dl_tutorial_04.toe.zip)
 <br>
 Download (screen-video) > [TD_tutorial_04_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393124/TD_tutorial_04_screen-video.zip)
-<br><br>
+<br><br><br><br>
 </a>
 <strong>TD NETWORK 05 (Modified)</strong><br>
 --------<br>
@@ -72,7 +72,7 @@ Color BG and general shapes
 Download (my tutorial version) > [tutorial_05.2.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393129/tutorial_05.2.toe.zip)
 <br>
 Download (screen-video) > [TD_tutorial_05_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393130/TD_tutorial_05_screen-video.zip)
-<br><br>
+<br><br><br><br>
 </a>
 <strong>TD NETWORK 06 (Modified)</strong><br>
 --------<br>
@@ -87,7 +87,7 @@ Created by: bileam tschepe
 Download (my tutorial version) > [tutorial_06.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393133/tutorial_06.toe.zip)
 <br>
 Download (screen-video) > [TD_tutorial_06_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393137/TD_tutorial_06_screen-video.zip)
-<br><br>
+<br><br><br><br>
 </a>
 <strong>TD NETWORK 07 (Modified)</strong><br>
 --------<br>
@@ -102,7 +102,7 @@ Created by: Noto The Talking Ball
 Download (my tutorial version) > [tutorial_07.14.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393144/tutorial_07.14.toe.zip)
 <br>
 Download (screen-video) > [TD_tutorial_07_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393145/TD_tutorial_07_screen-video.zip)
-<br><br>
+<br><br><br><br>
 </a>
 <strong>TD NETWORK 08 (Modified)</strong><br>
 --------<br>
@@ -119,7 +119,7 @@ I entered a Hight map of Mount S.Helen USA with Texture (phong1)<a href="https:/
 Download (my tutorial version) > [tutorial_08.19.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393212/tutorial_08.19.toe.zip)
 <br>
 Download (screen-video) > [TD_tutorial_08_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393221/TD_tutorial_08_screen-video.zip)
-<br><br>
+<br><br><br><br>
 </a>
 <strong>TD NETWORK 09</strong><br>
 --------<br>
@@ -132,6 +132,6 @@ Created by: bileam tschepe
 Download (my tutorial version) > [tutorial_09.10.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6421392/tutorial_09.10.toe.zip)
 <br>
 Download (screen-video) > [TD_tutorial_09_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6421389/TD_tutorial_09_screen-video.zip)
-<br><br>
+<br><br><br><br>
 </a>
 
