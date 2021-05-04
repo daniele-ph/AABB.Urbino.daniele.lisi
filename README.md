@@ -31,7 +31,7 @@ Download (screen-video) > [TD_tutorial_02_screen-video.zip](https://github.com/d
 <br>
 Title: <a href="https://www.youtube.com/watch?v=rYet0SwTYa0&ab_channel=bileamtschepe">16 – Instancing – TouchDesigner Beginner Course</a>
 <br>Created by: bileam tschepe
-<br>
+<br><br>
 <b>My changes:</b><br>
 Bg color "Blue" (transform1)<br>
 Radius of the spheres (sphere1)<br>
@@ -62,7 +62,7 @@ Download (screen-video) > [TD_tutorial_04_screen-video.zip](https://github.com/d
 Title: <a href="https://www.youtube.com/watch?v=AO7mqjLj8n4&ab_channel=bileamtschepe">Tiny Landscape – TouchDesigner Tutorial 12</a>
 <br>
 Created by: bileam tschepe
-<br>
+<br><br>
 <b>My changes:</b><br>
 Stump of the tree<br>
 Color BG and general shapes
