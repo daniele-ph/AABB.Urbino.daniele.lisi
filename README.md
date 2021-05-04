@@ -1,7 +1,7 @@
 <strong>EXAM ASSIGNMENTS "Multimedia languages" - D.Riboli AABB Urbino AA2020/21</strong>
 <br><br>
 </a>
-TD NETWORK 01
+TD NETWORK 01<br>
 --------<br><br>
 ![TD_tutorial_01_screen](https://user-images.githubusercontent.com/77739462/116430814-79878100-a847-11eb-9bbf-b8f4ca8f5955.png)<br><br>
 <b>TDN_TUTORIAL_01 (Obligatory)</b>
@@ -14,7 +14,9 @@ Download (my tutorial version) > [DL_tutorial_01.4.toe.zip](https://github.com/d
 Download (screen-video) > [TD_tutorial_01_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393082/TD_tutorial_01_screen-video.zip)
 <br><br>
 </a>
---------<br>
+TD NETWORK 02<br>
+--------<br><br>
+![TD_tutorial_02_screen](https://user-images.githubusercontent.com/77739462/116430735-6674b100-a847-11eb-94f2-8b8441455757.png)
 <b>TDN_TUTORIAL_02 (Obligatory)</b>
 <br>
 Title: <a href="https://www.youtube.com/watch?v=Kxng628ejFY&ab_channel=NotoTheTalkingBall">How to make landscape in Touchdesigner</a>
@@ -24,7 +26,6 @@ Download (my tutorial version) > [Dl_tutorial_02.4.toe.zip](https://github.com/d
 <br>
 Download (screen-video) > [TD_tutorial_02_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393094/TD_tutorial_02_screen-video.zip)
 <br><br>
-![TD_tutorial_02_screen](https://user-images.githubusercontent.com/77739462/116430735-6674b100-a847-11eb-94f2-8b8441455757.png)
 </a>
 --------<br>
 <b>TDN_TUTORIAL_03 (Modified)</b>
