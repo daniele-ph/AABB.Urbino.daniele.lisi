@@ -1,4 +1,6 @@
 <strong>EXAM ASSIGNMENTS "Multimedia languages" - D.Riboli AABB Urbino AA2020/21</strong>
+<br>
+These tutorials are inspired by my interest in geographic maps and 3D environments.
 <br><br>
 </a>
 <strong>TD NETWORK 01 (Obligatory)<br></strong>
@@ -126,6 +128,19 @@ Created by: bileam tschepe
 Download (my tutorial version) > [tutorial_09.10.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6421392/tutorial_09.10.toe.zip)
 <br>
 Download (screen-video) > [TD_tutorial_09_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6421389/TD_tutorial_09_screen-video.zip)
+<br><br><br><br>
+</a>
+<strong>TD NETWORK 10</strong><br>
+--------<br>
+![TD_tutorial_10_screen](https://user-images.githubusercontent.com/77739462/117112758-d627f600-ad89-11eb-89fa-6c153fec97dc.png)
+<br>
+Title: <a href="https://www.youtube.com/watch?v=PF1bHg8IbMI&ab_channel=bileamtschepe">Reaction Diffusion Material – TouchDesigner Tutorial 4</a>
+<br>
+Created by: bileam tschepe
+<br><br>
+Download (my tutorial version) > [tutorial_10.11.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6425765/tutorial_10.11.toe.zip)
+<br>
+Download (screen-video) > [TD_tutorial_10_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6425766/TD_tutorial_10_screen-video.zip)
 <br><br><br><br>
 </a>
 
