@@ -138,6 +138,10 @@ Title: <a href="https://www.youtube.com/watch?v=PF1bHg8IbMI&ab_channel=bileamtsc
 <br>
 Created by: bileam tschepe
 <br><br>
+<b>My changes:</b><br>
+Object color (ramp1)
+<br>Shape frequency (blur1)
+<br><br>
 Download (my tutorial version) > [tutorial_10.11.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6425765/tutorial_10.11.toe.zip)
 <br>
 Download (screen-video) > [TD_tutorial_10_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6425766/TD_tutorial_10_screen-video.zip)
