@@ -121,7 +121,7 @@ Download (screen-video) > [TD_tutorial_08_screen-video.zip](https://github.com/d
 --------<br>
 ![TD_tutorial_09_screen](https://user-images.githubusercontent.com/77739462/117011070-c0fd8980-aced-11eb-91fb-39eb3fb2d1f9.png)
 <br>
-Title: <a href="youtube.com/watch?v=Nkv74W2v-zY&t=575s&ab_channel=bileamtschepe">Topographic Grainy Noise – TouchDesigner Tutorial 11</a>
+Title: <a href="https://www.youtube.com/watch?v=Nkv74W2v-zY&t=575s&ab_channel=bileamtschepe">Topographic Grainy Noise – TouchDesigner Tutorial 11</a>
 <br>
 Created by: bileam tschepe
 <br><br>
