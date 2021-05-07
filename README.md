@@ -112,7 +112,7 @@ Created by: bileam tschepe
 I entered a Hight map of Mount S.Helen USA with Texture (phong1)<a href="https://cc0textures.com/view?id=Lava003"> "Lava texture"</a>
 <br>Sphere color (sphere1)
 <br><br>
-Download (my tutorial version) > [tutorial_08.19.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393212/tutorial_08.19.toe.zip)
+Download (my tutorial version) > [tutorial_08.26.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6440147/tutorial_08.26.toe.zip)
 <br>
 Download (screen-video) > [TD_tutorial_08_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6393221/TD_tutorial_08_screen-video.zip)
 <br><br><br><br>
@@ -125,7 +125,7 @@ Title: <a href="https://www.youtube.com/watch?v=Nkv74W2v-zY&t=575s&ab_channel=bi
 <br>
 Created by: bileam tschepe
 <br><br>
-Download (my tutorial version) > [tutorial_08.26.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6440126/tutorial_08.26.toe.zip)
+Download (my tutorial version) > [tutorial_09.10.toe.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6440143/tutorial_09.10.toe.zip)
 <br>
 Download (screen-video) > [TD_tutorial_09_screen-video.zip](https://github.com/daniele-ph/AABB.Urbino.daniele.lisi/files/6421389/TD_tutorial_09_screen-video.zip)
 <br><br><br><br>
